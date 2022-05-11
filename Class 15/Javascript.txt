@@ -1,0 +1,94 @@
+CMS=Content Managment System
+
+javasript hosce programing language/client language
+javasript kaj kore fornt end
+DOM= Document Object Model
+core javascript ke venila javascript bole.
+version=ES6; ES= Ecma Script.
+javaScript client site interactive korar jonne use kora hoy
+
+javascript 2 vabe kora jai
+1.internel
+2.extranal
+#in line
+
+string sign('')
+
+html/tag
+
+<script>
+dividing mode
+console.log(''); console
+alert(''); popup massage
+<script/>
+
+out put
+
+<script>
+document.write('');
+<script/>
+
+variable
+
+<script>
+var ab = 'hello';
+let ab = 'hello';
+const x =100
+<script/>
+
+Oparetor
+
+<script>
+Arithmatic oparetor {(=) equal; (+) addition; (-) subtraction (*) multiplication (/) modular (%) percent;}
+Exceptional { (=) assignment; (==) equal; (=) exact equal; (&&) and; (II) or; (!) not;
+<script/>
+
+Deta Type
+
+<script>
+string = ''""
+number = 100
+integer = 10
+array = [ 10, 20, 30, .....]
+object = valo mondo dik ace
+null = Empty
+boolean = 0/1 true/false
+<script/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

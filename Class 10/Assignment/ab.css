@@ -1,0 +1,140 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.animate{
+    width: 20px;
+    height: 20px;
+    background-color: #9dff00;
+    transition: 10s;
+}
+.animate:hover{
+    width: 100%;
+
+}
+
+.col-1{
+    width: 8.33%;
+}
+    
+    .col-2 {
+        width: 16.66%;
+    }
+    
+    .col-3 {
+        width: 25%;
+        background-color: blueviolet;
+    }
+    
+    .col-4 {
+        width: 33.33%;
+    }
+    
+    .col-5 {
+        width: 41.66%;
+    }
+    
+    .col-6 {
+        width: 50%;
+    }
+    
+    .col-7 {
+        width: 58.33%;
+    }
+    
+    .col-8 {
+        width: 66.66%;
+    }
+    
+    .col-9 {
+        width: 75%;
+        background-color:orange ;
+    }
+    
+    .col-10 {
+        width: 83.33%;
+    }
+    
+    .col-11 {
+        width: 91.66%;
+    }
+    
+    .col-12 {
+        width: 100%;
+    }
+    
+    [class*='col-'] {
+        float: left;
+        box-sizing: border-box;
+        border: 1px solid black;
+    }
+    
+    .row::after{
+        content: '';
+        clear: both;
+        display: block;
+    }
+    
+    li a:hover {
+        background-color:#9dff00 ;
+    }
+
+    .img{
+        height: 200px;
+        width: 350px;
+    }
+    .banner{
+        height: 200px;
+        width: 100%;
+    }
+
+    .left-sidebar{
+        height: 500px;
+        width: 350px;
+    }
+
+    .middle-sidebar{
+        height: 500px;
+        width: 100%;
+    }
+
+    .header-height {
+        height: 200px;
+    }
+    
+    .menu-height {
+        height: 50px;
+        background-color: rgb(174, 252, 252);
+    }
+    
+    .content-height {
+        height: 500px;
+        background-color: aquamarine;
+    }
+    
+    .footer-height {
+        height: 100px;
+        background-color: rgba(167, 223, 151, 0.932);
+    }
+    .text-center{
+        text-align: ;
+    }
+    ul {
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+        overflow: hidden;
+    }
+    li {
+        float: left;
+        display: block;
+        padding: 15px;
+    }
+    li a{
+        text-decoration: none;
+        color: #131211;
+        padding: 10px;
+        border-radius: 50px 15px 50px 15px;
+    }
+    

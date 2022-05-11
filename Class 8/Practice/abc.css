@@ -1,0 +1,43 @@
+body{
+    margin: auto;
+    background-color: chartreuse;
+}
+.joy{
+    width: 500px;
+    height: 300px;
+    border: 1px solid rebeccapurple;
+    margin: auto;
+    margin-top: 100px;
+    
+
+}
+.login{
+    background-color: orangered;
+    width: 500px;
+    height: 300px;
+}
+.text{
+    text-align: center;
+}
+.input{
+    width: 70%;
+    height: 25px;
+    text-align: right;
+    
+}
+.btn{
+    background-color: yellow;
+    width: 100px;
+    height: 20px;
+}
+.create{
+    background-color: white;
+    width: 150px;
+    height: 20px;
+}
+.forgot{
+    background-color: white;
+    width: 150px;
+    height: 20px;
+    
+}

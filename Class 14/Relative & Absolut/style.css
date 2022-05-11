@@ -1,0 +1,39 @@
+
+.col-12{
+    width: 100%;
+}
+
+.wrapper{
+    display: block;
+    border: 1px solid rebeccapurple;
+    height: 500px;
+    margin-top: 20px;
+}
+.box{
+    display: inline-block;
+    padding: 20px;
+    width: 25%;
+    color: white
+}
+.box > strong{
+    display: block;
+    font-weight: 500;
+    background-color: chocolate;
+    text-align: center;
+}
+.box.static{
+    position: static;
+
+}
+.box.relative{
+    position: relative;
+    bottom: 30px;
+    background-color: cornflowerblue;
+    width: 100%;
+}
+
+.box.absolute{
+    position: absolute;
+    top: 100px;
+    left: 400px;
+}
